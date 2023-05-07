@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeSamples</string>
+    <string name="close">close</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+</resources>
